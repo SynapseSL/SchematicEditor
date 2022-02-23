@@ -27,12 +27,6 @@ public class MenuItems
         }
         Debug.Log($"Found and removed {compCount} missing scripts from {goCount} GameObjects");
     }
-
-    [MenuItem("CONTEXT/Primitive/ChangeColor")]
-    private static void ChangeColor(MenuCommand command)
-    {
-        
-    }
 }
 
 [CustomEditor(typeof(Primitive))]
