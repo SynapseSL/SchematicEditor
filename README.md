@@ -17,3 +17,5 @@ You can use all Prefabs you can access inside the Asset directory(open by defaul
 5. Spawn a prefab and add it as child of the Schematic Object
 
 The Editor also supports to add a object as child of another child. This means you can create your own prefab out of the availabe prefabs and simply add the entire object as child.
+
+The last component in the list of components of a object is always the one you can use the setup the object. For Example can you configure if a door should spawn open in SL or closed
