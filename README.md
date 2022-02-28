@@ -25,4 +25,4 @@ After building your schematic you can simply just start the play mode of unity a
 
 # Credits
 * The Game [SCP: Secret Laboratory](https://scpslgame.com) by Northwood
-* [SL-CustomObjects](https://github.com/DentyTxR/SL-CustomObjects) Editor by Killer.I used the same Idea to use Unty as Editor however all the Scripts was made from scratch
+* [SL-CustomObjects](https://github.com/DentyTxR/SL-CustomObjects) Editor by Killer.I used the same Idea to use Unity as Editor however all the Scripts was made from scratch
