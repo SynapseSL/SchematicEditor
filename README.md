@@ -19,3 +19,10 @@ You can use all Prefabs you can access inside the Asset directory(open by defaul
 The Editor also supports to add a object as child of another child. This means you can create your own prefab out of the availabe prefabs and simply add the entire object as child.
 
 The last component in the list of components of a object is always the one you can use the setup the object. For Example can you configure if a door should spawn open in SL or closed
+
+## Hot to import the Schematics
+After building your schematic you can simply just start the play mode of unity and they will be generated in `~/Assets/Schematics`. You can also move around in the Player mode to get a better look at the Schematic how they should look like in SL
+
+# Credits
+* The Game [SCP: Secret Laboratory](https://scpslgame.com) by Northwood
+* [SL-CustomObjects](https://github.com/DentyTxR/SL-CustomObjects) Editor by Killer.I used the same Idea to use Unty as Editor however all the Scripts was made from scratch
