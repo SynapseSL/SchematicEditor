@@ -1,0 +1,13 @@
+﻿[Example Schematic]
+{
+iD: 2
+name: Example Schematic
+customAttributes: 
+primitiveObjects: ::lcb::::rcb::
+lightObjects: ::lcb::::rcb::
+targetObjects: ::lcb::::rcb::
+itemObjects: ::lcb::::rcb::
+workStationObjects: ::lcb::::rcb::
+doorObjects: ::lcb::::rcb::
+}
+
