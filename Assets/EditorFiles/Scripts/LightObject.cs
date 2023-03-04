@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LightObject : MonoBehaviour
+public class LightObject : DefaultChildren
 {
     public Light lightcomp;
 

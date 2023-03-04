@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class WorkStation : MonoBehaviour
+public class WorkStation : DefaultChildren
 {
     public bool UpdateEveryFrame = false;
 }

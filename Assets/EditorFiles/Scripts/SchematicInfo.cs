@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 
-public class SchematicInfo : MonoBehaviour
+public class SchematicInfo : DefaultChildren
 {
     public string Name;
 
-    public int ID;
+    public uint ID;
 
     public void OnValidate()
     {

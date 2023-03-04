@@ -1,13 +1,55 @@
 ﻿[Example Schematic]
-{
-iD: 2
 name: Example Schematic
-customAttributes: 
-primitiveObjects: ::lcb::::rcb::
-lightObjects: ::lcb::::rcb::
-targetObjects: ::lcb::::rcb::
-itemObjects: ::lcb::::rcb::
-workStationObjects: ::lcb::::rcb::
-doorObjects: ::lcb::::rcb::
-}
-
+id: 2
+customAttributes: []
+primitives:
+- primitiveType: Cube
+  physics: false
+  color:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  position:
+    x: 0
+    y: 1.29999995
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 2.70000005
+    y: 2.70000005
+    z: 0.300000012
+  customAttributes: []
+lights: []
+targets: []
+items: []
+workStations: []
+doors:
+- doorType: HCZ
+  open: false
+  locked: false
+  health: -1
+  unDestroyable: false
+  updateEveryFrame: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 0.75
+    z: 1
+  customAttributes: []
+customObjects: []
+ragdolls: []
+dummies: []
+generators: []
+lockers: []
+oldGrenades: []

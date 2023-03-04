@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Primitive : MonoBehaviour
+public class Primitive : DefaultChildren
 {
     public PrimitiveType PrimitiveType;
 
     public Color color = Color.white;
+
+    public bool Physics = false;
 
     public void OnValidate()
     {

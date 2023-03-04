@@ -8,7 +8,12 @@ public enum ObjectType
     Target,
     Door,
     Workstation,
-    Item
+    Item,
+    Ragdoll,
+    Dummy,
+    Custom,
+    Locker,
+    Generator
 }
 
 public class ObjectInfo : MonoBehaviour

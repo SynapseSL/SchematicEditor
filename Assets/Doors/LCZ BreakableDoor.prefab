@@ -974,6 +974,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63e82b7f245cf8945a39b39492962234, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  CustomAttributes: []
+  DefaultCustomAttributes: 
   DoorType: 0
   Open: 0
   Locked: 0

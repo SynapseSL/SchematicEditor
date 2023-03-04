@@ -1,7 +1,8 @@
 ﻿using Config;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class Door : MonoBehaviour
+public class Door : DefaultChildren
 {
     public SpawnableDoorType DoorType = SpawnableDoorType.LCZ;
 
